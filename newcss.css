@@ -3,12 +3,12 @@ h1 {
     font-family: Times; color: Crimson;
 }
 h2 {
-  font-size: 110%;
+  font-size: 100%;
   font-family: Times; color: Black;
 }
 h3 {
-  font-size: 110%;
-  font-family: Times; color: indigo;
+  font-size: 135%;
+  font-family: Times; color: Green;
 }
 
 p {
@@ -19,9 +19,9 @@ p {
 #whole_page {
   background-color: pink;
 }
-#titles {
+#something {
     width: 700px;
-    min-height: 50px;
+    min-height: 200px;
     padding: 5px;
     margin: 10px;
     font-size: 20px;
@@ -29,6 +29,6 @@ p {
 #maintext {
   font-size: 20px;
 }
-#my-work {
-  width: 700px
+#my-portrait {
+  width: 500px
 }
