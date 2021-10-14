@@ -16,9 +16,9 @@ p {
     text-indent: 20px;
     margin-left: 10px;
 }
-#whole_page {
+/* #whole_page {
   background-color: pink;
-}
+} */
 #something {
     width: 700px;
     min-height: 200px;
