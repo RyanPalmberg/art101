@@ -7,8 +7,6 @@
  *@since  10.27.21
 */
 
-
-
 function squared(x) {
   // Gives the square of any given number
   var returned = x * x;
