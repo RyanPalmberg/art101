@@ -16,3 +16,6 @@ p {
   text-indent: 20px;
   margin-left: 10px;
 }
+#wide {
+  width: 500px;
+}
