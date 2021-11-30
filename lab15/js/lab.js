@@ -1,6 +1,7 @@
 /*
  *Summary: .js script that acesses internet API
  *Description: accesses random photographs of cute dogs from free API
+*@link: https://ryanpalmberg.github.io/art101/
  *@file: ordinary .js file.
  *@Author: Ryan Palmberg <rpalmber@ucsc.edu>
  *@since  11.29.21
