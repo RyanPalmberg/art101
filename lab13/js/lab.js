@@ -8,13 +8,16 @@
 */
 
 var outputEl = document.getElementById("output");
+// var input = document.getElementById("input");
+// let inputEl = input.value();
 
 function FizzBuzz() {
   //Makes sure the first string isn't indented
   let x = '<p>'+'</p>';
 
   //Loops through each number from 1 to 200
-  for (let i=1; i<201; i++) {
+  // for (let i=1; i<201; i++) {
+  for (let i=1; i<=200; i++) {
 
     //Creates empty string to start
     let y = '';
@@ -43,4 +46,9 @@ function FizzBuzz() {
 }
 
 //Calls the function
-FizzBuzz()
+// if (inputEl != ''){
+//   FizzBuzz(inputEl);
+// } else {
+  // FizzBuzz(200);
+// }
+FizzBuzz();
