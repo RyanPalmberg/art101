@@ -1,3 +1,12 @@
+/*
+ *Summary: .js script that acesses internet API and gives comics made in poor taste.
+ *Description: Accesses comic API and gives daily comic.
+ *@link: https://ryanpalmberg.github.io/art101/
+ *@file: ordinary .js file.
+ *@Author: Ryan Palmberg <rpalmber@ucsc.edu>
+ *@since  12.1.21
+*/
+
 $.ajax({
     // The URL for the request (from the api docs)
     url: "https://xkcd.com/info.0.json",
